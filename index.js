@@ -45,7 +45,7 @@ function makePersonObject(id, name, email) {
   person.name = "Leia",
   person.email = "leia@leia.com"
 }
-  return person;
+  return person
 
 
 
